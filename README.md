@@ -3,4 +3,6 @@ my 1st github project
 
 I am still learning github
 
-learning remote
+
+Today is 24 March 2018
+
