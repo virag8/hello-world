@@ -1,0 +1,113 @@
+[ 2018-03-19 08:51:37 ] INFO:	 ##### Test Environment ==> qa_phase1 <==
+Loaded suite test_help
+Started
+[ 2018-03-19 08:51:37 ] INFO:	 ##### Executing Test Case: Documentation: PDF links valid
+[ 2018-03-19 04:51:37 ] INFO:	 ##### Browser to run   ==> phantomjs <==
+[ 2018-03-19 04:51:39 ] INFO:	 Adding account fwABAVqvehltzQDP to cleanup
+[ 2018-03-19 04:51:39 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/login###
+[ 2018-03-19 04:51:40 ] INFO:	 ===user:automationstaff@marchex.com============
+[ 2018-03-19 04:51:40 ] INFO:	 ===password:seattle1============
+[ 2018-03-19 04:51:43 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/docs/home.htm###
+[ 2018-03-19 04:51:44 ] INFO:	 Requesting Download: https://qa2-vsui1.sea1.marchex.com/PDF/CallAnalyticsUserGuide/CallAnalyticsUserGuide.pdf
+[ 2018-03-19 04:51:44 ] INFO:	 Requesting Download: https://qa2-vsui1.sea1.marchex.com/PDF/CallAnalyticsIntegrationsGuide/CallAnalyticsIntegrationsGuide.pdf
+[ 2018-03-19 04:51:44 ] INFO:	 Requesting Download: https://qa2-vsui1.sea1.marchex.com/PDF/CallAnalyticsJSON_DevGuide/CallAnalyticsJSON_DevGuide.pdf
+[ 2018-03-19 04:51:45 ] INFO:	 Cleaned successfully Group.group_id: fwABAVqvehttywCy [SUCCESS]
+[ 2018-03-19 04:51:48 ] INFO:	 Cleaned successfully Account.account_id: fwABAVqvehltzQDP [SUCCESS]
+[ 2018-03-19 04:51:49 ] INFO:	 ##### [Pass] Test Case: Documentation: PDF links valid
+.[ 2018-03-19 04:51:49 ] INFO:	 ##### Executing Test Case: Non-Private Label: New Documentation - Early Audio 'our documentation' link
+[ 2018-03-19 04:51:49 ] INFO:	 ##### Browser to run   ==> phantomjs <==
+[ 2018-03-19 04:51:50 ] INFO:	 Adding account fwABAVqveiVudwDN to cleanup
+[ 2018-03-19 04:51:50 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/login###
+[ 2018-03-19 04:51:51 ] INFO:	 ===user:automationstaff@marchex.com============
+[ 2018-03-19 04:51:51 ] INFO:	 ===password:seattle1============
+[ 2018-03-19 04:51:54 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/campaigns/settings?acc=fwABAVqveiVudwDN&grp=fwABAVqveiZtywCz&cmp=fwABAVqveipugADO###
+[ 2018-03-19 04:51:56 ] INFO:	 Cleaning up schedule: fwABAVqveipugADN / 0 [SUCCESS]
+[ 2018-03-19 04:51:56 ] INFO:	 Cleaning up schedule: fwABAVqveipugADN / 1 [SUCCESS]
+[ 2018-03-19 04:51:56 ] INFO:	 Cleaning up schedule: fwABAVqveipugADN / 2 [SUCCESS]
+[ 2018-03-19 04:51:56 ] INFO:	 Cleaning up schedule: fwABAVqveipugADN / 3 [SUCCESS]
+[ 2018-03-19 04:51:56 ] INFO:	 Cleaning up schedule: fwABAVqveipugADN / 4 [SUCCESS]
+[ 2018-03-19 04:51:56 ] INFO:	 Cleaning up schedule: fwABAVqveipugADN / 5 [SUCCESS]
+[ 2018-03-19 04:51:56 ] INFO:	 Cleaning up schedule: fwABAVqveipugADN / 6 [SUCCESS]
+[ 2018-03-19 04:51:56 ] INFO:	 Cleaned successfully Campaign.campaign_id: fwABAVqveipugADO [SUCCESS]
+[ 2018-03-19 04:51:56 ] INFO:	 Cleaned successfully Settings.settings_id: fwABAVqveipugADN [SUCCESS]
+[ 2018-03-19 04:51:57 ] INFO:	 Cleaned successfully Group.group_id: fwABAVqveiZtywCz [SUCCESS]
+[ 2018-03-19 04:51:57 ] INFO:	 Cleaned successfully Account.account_id: fwABAVqveiVudwDN [SUCCESS]
+[ 2018-03-19 04:51:57 ] INFO:	 ##### [Pass] Test Case: Non-Private Label: New Documentation - Early Audio 'our documentation' link
+.[ 2018-03-19 04:51:57 ] INFO:	 ##### Executing Test Case: Non-Private Label: New Documentation - Postback URL 'whats this' link
+[ 2018-03-19 04:51:57 ] INFO:	 ##### Browser to run   ==> phantomjs <==
+[ 2018-03-19 04:51:59 ] INFO:	 Adding account fwABAVqvei5ugwDN to cleanup
+[ 2018-03-19 04:51:59 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/login###
+[ 2018-03-19 04:52:00 ] INFO:	 ===user:automationstaff@marchex.com============
+[ 2018-03-19 04:52:00 ] INFO:	 ===password:seattle1============
+[ 2018-03-19 04:52:02 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/campaigns/settings?acc=fwABAVqvei5ugwDN&grp=fwABAVqvei9tmwAk&cmp=fwABAVqvejJuhQDO###
+[ 2018-03-19 04:52:04 ] INFO:	 Cleaning up schedule: fwABAVqvejJuhQDN / 0 [SUCCESS]
+[ 2018-03-19 04:52:05 ] INFO:	 Cleaning up schedule: fwABAVqvejJuhQDN / 1 [SUCCESS]
+[ 2018-03-19 04:52:05 ] INFO:	 Cleaning up schedule: fwABAVqvejJuhQDN / 2 [SUCCESS]
+[ 2018-03-19 04:52:05 ] INFO:	 Cleaning up schedule: fwABAVqvejJuhQDN / 3 [SUCCESS]
+[ 2018-03-19 04:52:05 ] INFO:	 Cleaning up schedule: fwABAVqvejJuhQDN / 4 [SUCCESS]
+[ 2018-03-19 04:52:05 ] INFO:	 Cleaning up schedule: fwABAVqvejJuhQDN / 5 [SUCCESS]
+[ 2018-03-19 04:52:05 ] INFO:	 Cleaning up schedule: fwABAVqvejJuhQDN / 6 [SUCCESS]
+[ 2018-03-19 04:52:05 ] INFO:	 Cleaned successfully Campaign.campaign_id: fwABAVqvejJuhQDO [SUCCESS]
+[ 2018-03-19 04:52:05 ] INFO:	 Cleaned successfully Settings.settings_id: fwABAVqvejJuhQDN [SUCCESS]
+[ 2018-03-19 04:52:05 ] INFO:	 Cleaned successfully Group.group_id: fwABAVqvei9tmwAk [SUCCESS]
+[ 2018-03-19 04:52:06 ] INFO:	 Cleaned successfully Account.account_id: fwABAVqvei5ugwDN [SUCCESS]
+[ 2018-03-19 04:52:06 ] INFO:	 ##### [Pass] Test Case: Non-Private Label: New Documentation - Postback URL 'whats this' link
+.[ 2018-03-19 04:52:06 ] INFO:	 ##### Executing Test Case: Private Label: New Documentation - Early Audio 'our documentation' link
+[ 2018-03-19 04:52:06 ] INFO:	 ##### Browser to run   ==> phantomjs <==
+[ 2018-03-19 04:52:08 ] INFO:	 Adding account fwABAVqvejdugADP to cleanup
+[ 2018-03-19 04:52:08 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/login###
+[ 2018-03-19 04:52:09 ] INFO:	 ===user:automationstaff@marchex.com============
+[ 2018-03-19 04:52:09 ] INFO:	 ===password:seattle1============
+[ 2018-03-19 04:52:10 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/staff-menu?action=save&theme=pl2&domain=calls.localbusinessrockstar.com###
+[ 2018-03-19 04:52:10 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/campaigns/settings?acc=fwABAVqvejdugADP&grp=fwABAVqvejhugQDN&cmp=fwABAVqvejpudwDP###
+[ 2018-03-19 04:52:12 ] INFO:	 Cleaning up schedule: fwABAVqvejpudwDO / 0 [SUCCESS]
+[ 2018-03-19 04:52:12 ] INFO:	 Cleaning up schedule: fwABAVqvejpudwDO / 1 [SUCCESS]
+[ 2018-03-19 04:52:12 ] INFO:	 Cleaning up schedule: fwABAVqvejpudwDO / 2 [SUCCESS]
+[ 2018-03-19 04:52:12 ] INFO:	 Cleaning up schedule: fwABAVqvejpudwDO / 3 [SUCCESS]
+[ 2018-03-19 04:52:12 ] INFO:	 Cleaning up schedule: fwABAVqvejpudwDO / 4 [SUCCESS]
+[ 2018-03-19 04:52:12 ] INFO:	 Cleaning up schedule: fwABAVqvejpudwDO / 5 [SUCCESS]
+[ 2018-03-19 04:52:12 ] INFO:	 Cleaning up schedule: fwABAVqvejpudwDO / 6 [SUCCESS]
+[ 2018-03-19 04:52:12 ] INFO:	 Cleaned successfully Campaign.campaign_id: fwABAVqvejpudwDP [SUCCESS]
+[ 2018-03-19 04:52:13 ] INFO:	 Cleaned successfully Settings.settings_id: fwABAVqvejpudwDO [SUCCESS]
+[ 2018-03-19 04:52:13 ] INFO:	 Cleaned successfully Group.group_id: fwABAVqvejhugQDN [SUCCESS]
+[ 2018-03-19 04:52:13 ] INFO:	 Cleaned successfully Account.account_id: fwABAVqvejdugADP [SUCCESS]
+[ 2018-03-19 04:52:13 ] INFO:	 ##### [Pass] Test Case: Private Label: New Documentation - Early Audio 'our documentation' link
+.[ 2018-03-19 04:52:13 ] INFO:	 ##### Executing Test Case: Private Label: New Documentation - Help link
+[ 2018-03-19 04:52:14 ] INFO:	 ##### Browser to run   ==> phantomjs <==
+[ 2018-03-19 04:52:14 ] INFO:	 Adding account fwABAVqvej5udwDQ to cleanup
+[ 2018-03-19 04:52:14 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/login###
+[ 2018-03-19 04:52:16 ] INFO:	 ===user:automationstaff@marchex.com============
+[ 2018-03-19 04:52:16 ] INFO:	 ===password:seattle1============
+[ 2018-03-19 04:52:17 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/staff-menu?action=save&theme=pl2&domain=calls.localbusinessrockstar.com###
+[ 2018-03-19 04:52:17 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/clients/report/dashboard?acc=fwABAVqvej5udwDQ###
+[ 2018-03-19 04:52:19 ] INFO:	 Cleaned successfully Group.group_id: fwABAVqvej5ujgDN [SUCCESS]
+[ 2018-03-19 04:52:20 ] INFO:	 Cleaned successfully Account.account_id: fwABAVqvej5udwDQ [SUCCESS]
+[ 2018-03-19 04:52:20 ] INFO:	 ##### [Pass] Test Case: Private Label: New Documentation - Help link
+.[ 2018-03-19 04:52:20 ] INFO:	 ##### Executing Test Case: Private Label: New Documentation - Postback URL 'whats this' link
+[ 2018-03-19 04:52:20 ] INFO:	 ##### Browser to run   ==> phantomjs <==
+[ 2018-03-19 04:52:22 ] INFO:	 Adding account fwABAVqvekVujgDO to cleanup
+[ 2018-03-19 04:52:22 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/login###
+[ 2018-03-19 04:52:23 ] INFO:	 ===user:automationstaff@marchex.com============
+[ 2018-03-19 04:52:23 ] INFO:	 ===password:seattle1============
+[ 2018-03-19 04:52:24 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/staff-menu?action=save&theme=pl2&domain=calls.localbusinessrockstar.com###
+[ 2018-03-19 04:52:24 ] INFO:	 ##https://qa2-vsui1.sea1.marchex.com/campaigns/settings?acc=fwABAVqvekVujgDO&grp=fwABAVqvekZujwDa&cmp=fwABAVqvekhudwDS###
+[ 2018-03-19 04:52:26 ] INFO:	 Cleaning up schedule: fwABAVqvekhudwDR / 0 [SUCCESS]
+[ 2018-03-19 04:52:26 ] INFO:	 Cleaning up schedule: fwABAVqvekhudwDR / 1 [SUCCESS]
+[ 2018-03-19 04:52:26 ] INFO:	 Cleaning up schedule: fwABAVqvekhudwDR / 2 [SUCCESS]
+[ 2018-03-19 04:52:26 ] INFO:	 Cleaning up schedule: fwABAVqvekhudwDR / 3 [SUCCESS]
+[ 2018-03-19 04:52:26 ] INFO:	 Cleaning up schedule: fwABAVqvekhudwDR / 4 [SUCCESS]
+[ 2018-03-19 04:52:26 ] INFO:	 Cleaning up schedule: fwABAVqvekhudwDR / 5 [SUCCESS]
+[ 2018-03-19 04:52:27 ] INFO:	 Cleaning up schedule: fwABAVqvekhudwDR / 6 [SUCCESS]
+[ 2018-03-19 04:52:27 ] INFO:	 Cleaned successfully Campaign.campaign_id: fwABAVqvekhudwDS [SUCCESS]
+[ 2018-03-19 04:52:27 ] INFO:	 Cleaned successfully Settings.settings_id: fwABAVqvekhudwDR [SUCCESS]
+[ 2018-03-19 04:52:27 ] INFO:	 Cleaned successfully Group.group_id: fwABAVqvekZujwDa [SUCCESS]
+[ 2018-03-19 04:52:28 ] INFO:	 Cleaned successfully Account.account_id: fwABAVqvekVujgDO [SUCCESS]
+[ 2018-03-19 04:52:28 ] INFO:	 ##### [Pass] Test Case: Private Label: New Documentation - Postback URL 'whats this' link
+.
+
+Finished in 50.730123999 seconds.
+------
+6 tests, 14 assertions, 0 failures, 0 errors, 0 pendings, 0 omissions, 0 notifications
+100% passed
+------
+0.12 tests/s, 0.28 assertions/s
